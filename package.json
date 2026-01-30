@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/science-periodicals/dedocx.git"
+    "url": "https://github.com/depakn/dedocx.git"
   },
   "keywords": [
     "OOXML",
@@ -47,19 +47,12 @@
     "tree",
     "walker"
   ],
-  "eslintConfig": {
-    "extends": "@scipe"
-  },
-  "contributors": [
-    "Robin Berjon",
-    "Tiffany Bogich <tiffany@sci.pe> (https://sci.pe)",
-    "Sebastien Ballesteros <sebastien@sci.pe> (https://sci.pe)"
-  ],
+  "contributors": [],
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/science-periodicals/dedocx/issues"
+    "url": "https://github.com/depakn/dedocx/issues"
   },
-  "homepage": "https://github.com/science-periodicals/dedocx",
+  "homepage": "https://github.com/depakn/dedocx",
   "dependencies": {
     "@babel/runtime": "^7.2.0",
     "async": "^2.4.1",
@@ -95,7 +88,6 @@
     "@babel/plugin-transform-runtime": "^7.2.0",
     "@babel/preset-env": "^7.3.1",
     "@babel/register": "^7.0.0",
-    "@scipe/eslint-config": "^1.0.0",
     "mocha": "^5.1.1",
     "prettify-xml": "^1.2.0",
     "selectron-test": "^2.0.0"
